@@ -66,6 +66,11 @@ Star schema built from an Excel source.
 
 ## Tools
 
+
+<img width="1321" height="727" alt="image" src="https://github.com/user-attachments/assets/4510eed4-78f3-41c4-bb2f-5c9d7c42312f" />
+
+<img width="1320" height="745" alt="image" src="https://github.com/user-attachments/assets/74ee6767-c087-44e8-9a28-0c3de755f8f6" />
+
 Power BI Desktop, DAX, Power Query, Excel
 
 ## Author
